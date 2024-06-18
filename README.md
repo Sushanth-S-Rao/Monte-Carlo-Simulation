@@ -6,7 +6,7 @@ Monte Carlo simulation is a model to predict the probability of various outcomes
 ![image](https://github.com/Sushanth-S-Rao/Monte-Carlo-Simulation/assets/95978063/6669d136-70e4-4f0a-9a17-70faa59957cb)
 
 ## Description
-###**1) MonteCarloSimulation**  
+###1) MonteCarloSimulation  
 Simple demonstration of monte carlo simulation
 
 Assume you need to complete 2 tasks. Based on the previous history, it would take anywhere between 1-5 hours and 2-6 hours to finish the tasks. If you can only spare 9 hours, determine the possibility that BOTH the tasks can be completed within 9 hours
@@ -20,7 +20,7 @@ Principle of Ergodicity describes the statistical behavior of a moving point in 
 Law of Large Numbers states that as the number of trials (or samples) increases, the average of the outcomes will converge to the expected value of the random variable  
 
 \
-##**2) CasinoHouseAlwaysWins**  
+###2) CasinoHouseAlwaysWins
 How casinos exploit the monte carlo simulation to always win, eventually.
 
 In order to lure people into gambling, casinos keep a small upper hand. Such as  
@@ -35,7 +35,7 @@ With a few number of bets (n = 5, n = 10, n = 50), player can incur a profit or 
 With the more number of bets (n = 500, n = 1000, n = 5000), player incurs a loss majority of the times. The small upperhand the casino has becomes effective as the player bets more. In the end, the house always wins!
 
 \
-##**3) Estimating Financial Risk through Monte Carlo Simulation**  
+###3) Estimating Financial Risk through Monte Carlo Simulation  
 Extracted from [github.com/alegaballo/AML](https://github.com/alegaballo/AML/blob/master/%5BLecture%207%2B8%5D%20Estimating%20Financial%20Risk%20through%20Monte%20Carlo%20Simulation.ipynb)
 
 
